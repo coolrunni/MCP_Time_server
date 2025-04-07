@@ -1,0 +1,3 @@
+@echo off
+echo Starting MCP Time Server...
+python -m mcp_server_time
